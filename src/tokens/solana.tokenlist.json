@@ -24861,6 +24861,20 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "FYFEkpEEfDdFnBRcqof3KbRkFccPuFJbk89dEKW4DFnM",
+      "symbol": "vPARKS",
+      "name": "vPARK Solana",
+      "decimals": 4,
+      "logoURI": "https://d3o58t2pcb2bu7.cloudfront.net/static/images/logo-sqr.jpg",
+      "tags": [
+        "vpark",
+        "vpark.io",
+        "community-token",
+        "meme-token",
+      ]
     }
   ],
   "version": {
